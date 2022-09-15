@@ -1,0 +1,32 @@
+{
+  "user": {
+    "username": "user",
+    "password": "user",
+    "isVoted": false
+  },
+  "user1": {
+    "username": "user1",
+    "password": "user1",
+    "isVoted": false
+  },
+  "user2": {
+    "username": "user2",
+    "password": "user2",
+    "isVoted": false
+  },
+  "user3": {
+    "username": "user3",
+    "password": "user3",
+    "isVoted": false
+  },
+  "user4": {
+    "username": "user4",
+    "password": "user4",
+    "isVoted": false
+  },
+  "user5": {
+    "username": "user5",
+    "password": "user5",
+    "isVoted": true
+  }
+}
